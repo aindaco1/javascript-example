@@ -1,0 +1,30 @@
+h1 {
+	font-family: Josefin Slab;
+	font-size: 16px;
+	font-style: oblique;
+	font-weight: 500;
+	line-height: 36px;
+	background: black;
+	color: whitesmoke;
+}
+
+.view-logo {
+	width: 120px;
+	height: 100px;
+}
+
+p {
+	font-family: Josefin Slab;
+	font-size: 12px;
+
+}
+
+body {
+	background-color: white;
+}
+
+footer {
+	background-color: black;
+	color: whitesmoke;
+	text-align: right;
+}
